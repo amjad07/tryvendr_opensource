@@ -8,7 +8,7 @@ I trusted them but they ditch us. We are also attaching the screenshots of our c
 
 Here are the code files you can download https://github.com/amjad07/tryvendr_opensource.git 
 
-Screenshots of communication with Alex (probably the financial manager of the company) is attached
+Screenshots of communication with Alex (probably the financial manager of the company) is attached \n
 https://tppr.me/H6X7j
 No response from them after getting code
 https://tppr.me/iaj7O 
